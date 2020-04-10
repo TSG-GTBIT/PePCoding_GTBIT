@@ -5,8 +5,8 @@ using namespace std;
 int rotateChain(int r, int c, int **mat, int rotate, int rStart, int cStart){	// function to rotate each chain in matrix
 	int C=c-1, R=r-1;
 	for(int k=0; k<rotate ; k++){
-	
 		int i, temp = mat[rStart][cStart];
+
 		for(i=cStart; i<C; i++)
 			mat[rStart][i]=mat[rStart][i+1];
 
