@@ -46,4 +46,3 @@ You are given a number k. Each student have to move k steps in anticlockwise dir
 8 3 2 2
 1 5 3 4
 ```
-
