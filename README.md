@@ -1,7 +1,7 @@
 # PePCoding Challenge GTBIT
 Questions
 
-1. **Pattern easy one**
+1. **Pattern**
 1. **Adding 2 numbers**
 1. **Students chaining**
 1. **Help Students**

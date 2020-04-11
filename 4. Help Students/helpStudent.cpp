@@ -9,7 +9,7 @@ void sortedArray(int arr[], int num){
             if(arr[i-1]>arr[i])
                 swap(arr[i-1], arr[i]);
             if(arr[i+1]>arr[i])
-                swap(arr[i+1], arr[i]);
+                swap(arr[i+1], arr[i]); 
         }else{
             if(arr[i-1]<arr[i])
                 swap(arr[i-1], arr[i]);

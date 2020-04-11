@@ -54,9 +54,9 @@ int rightRotate(int arr[], int rotate, int count){	// function to rotate right
 
 int main(){
 	int rotate, num, count;
-	cout<<"Enter Number for circular rotation";
+	cout<<"Enter Number for rotation";
 	cin>>num;
-	cout<<"Enter rotation";
+	cout<<"Enter number of rotation";
 	cin>>rotate;
 	cout<<endl;
 

@@ -30,7 +30,7 @@ int main(){
 	cout<< "Enter first number and its base";
 	cin>>num1;
 	cin>>base1;
-	cout<< "Enter secound number and its base";
+	cout<< "Enter second number and its base";
 	cin>>num2;
 	cin>>base2;
 	
@@ -38,7 +38,7 @@ int main(){
 	cout<< add;
 	cout<< endl;
 
-	cout<< "Enter the base to ge the result in";
+	cout<< "Enter the base to get the result in";
 	cin>>d;
 
 	cout<< numToOtherBase(add, d);
